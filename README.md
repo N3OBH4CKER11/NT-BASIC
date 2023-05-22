@@ -1,18 +1,18 @@
 # NT-BASIC
 Basic Command Update Termux
 
-- `pkg update`
+- pkg update
 
-- `pkg upgrade`
+- pkg upgrade
 
 
-- `pkg install git`
+- pkg install git
 
-- `git clone https://github.com/N3OBH4CKER11/NT-BASIC
+- git clone https://github.com/N3OBH4CKER11/NT-BASIC
 
-- `cd NT-BASIC`
+- cd NT-BASIC
 
-- `python NT-BASIC.py`
+- python NT-BASIC.py
 
 # Thank You For Your Support ❤️😘
 
